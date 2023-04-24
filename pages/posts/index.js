@@ -21,9 +21,6 @@ function PostMainPage() {
 
             </list>
 
-            <div>
-                <img src='/next-step/public/WHEEEEERE.jpg' height={200} width={200}/>
-            </div>
         </div>
     )
 }
