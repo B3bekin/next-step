@@ -54,9 +54,10 @@
   flex-basis: 45%;
   padding: 1.5rem;
   text-align: left;
-  color: inherit;
+  color: black;
+  background-color: rgb(239, 242, 91);
   text-decoration: none;
-  border: 1px solid #eaeaea;
+  border: 1px solid #0208c6;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
